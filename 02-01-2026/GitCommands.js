@@ -6,3 +6,11 @@
 //3.local repository
 //4.central repository
      
+
+// Git commands
+//1.git add
+//3.git commit
+//4.git push
+//5.git status
+//6.git log
+//7.git branch
